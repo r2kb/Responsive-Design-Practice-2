@@ -24,7 +24,9 @@ body{
     max-width: 50px;
 }
 */
-
+.nav-container-mobile{
+    display: none;
+}
 .hero-section{
   padding: 2em;
   background-color: var(--primary-color);
